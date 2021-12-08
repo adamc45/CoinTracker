@@ -1,3 +1,6 @@
 # CoinTracker
 
-** Requirements **
+## Requirements
+** MySQL
+** Flask
+** Flask-Restful
