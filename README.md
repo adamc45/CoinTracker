@@ -27,3 +27,5 @@ Now you should be able to start up server. For me, that would be running on http
 The algorithim question included in the requirements can be hit at the root url. It's expecting get request with a user_id query parameter. A possible example that can be run via curl:
 
 curl 'http://127.0.0.1:5000?user_id=1'
+
+You can add some additonal test data to the corresponding table in `populate_tables.py` and run the script again if needed.
