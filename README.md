@@ -1,2 +1,3 @@
 # CoinTracker
-Takehome project
+
+** Requirements **
