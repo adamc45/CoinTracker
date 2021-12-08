@@ -11,6 +11,8 @@
 
 **python-dotenv**
 
+## Setup and Running code
+
 Everything with the exception of MySQL can be installed via pip. With installing MySQL, none of the defaults worked for me. I followed the guidance given in the following video and it worked perfectly: https://www.youtube.com/watch?v=OM4aZJW_Ojs&t=210s&ab_channel=AmitThinks
 
 Your mileage may vary.
