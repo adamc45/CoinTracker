@@ -24,6 +24,8 @@ There are 4 setup steps you will need to run after you've installed all the requ
 
 Now you should be able to start up server. For me, that would be running on http://127.0.0.1:5000/
 
+To start server, run `python CoinTracker.py` in the root of the repo.
+
 The algorithim question included in the requirements can be hit at the root url. It's expecting get request with a user_id query parameter. A possible example that can be run via curl:
 
 curl 'http://127.0.0.1:5000?user_id=1'
