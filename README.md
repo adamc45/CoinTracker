@@ -4,5 +4,5 @@
 **MySQL**
 **Flask**
 **Flask-Restful**
-**mysql-connector
+**mysql-connector**
 **python-dotenv**
